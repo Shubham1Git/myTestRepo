@@ -1,3 +1,4 @@
 # myTestRepo
 My first repository
-My name is Shubham 
+Name Shubham 
+This is my first test understanding GitHub
